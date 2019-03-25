@@ -1,7 +1,8 @@
 
 Learn Docker By Doing 
 
-Module-I   :
+Module-I   : Introduction to Docker
+
 
 Module-II  :
 
@@ -10,4 +11,92 @@ Module-III :
 Module-IV  :
 
 Module-V   :
+
+Introduction : 
+
+About the Trainer
+About the Course
+
+Module-1 : 
+
+History of Various Operating Systems
+Unix and Linux File System
+Various Shell Environments
+3rd Party Tools : WinScp, FileZilla, Putty, Gitbash, Cmder, ATOM, Notepad++ 
+Basic Commands
+User and Group Managment 
+Permissions
+Advanced Commands
+Download, Install and Configure Linux Distribution on Virtualization
+BootProcess & RunLevels
+Package Management
+Controlling Services and Daemons
+Log Management
+Monitoring & Analysis
+Job and Process Management
+Networking 
+Troubleshooting
+
+Module-2 : 
+
+Docker– Containers.
+
+1. Introduction
+o What is a Docker
+o Use case of Docker
+o Platforms for Docker
+o Dockers vs. Virtualization
+o Docker CE Vs Docker EE and supported platforms
+
+
+2. Architecture
+o Docker Architecture.
+o Understanding the Docker components
+
+3. Installation
+o Installing Docker on Linux.
+o Understanding Installation of Docker on windows.
+o Docker commands
+Images, ps, pull, push, run, create, commit, attach, exec, cp, rm, rmi, login, export, import, pause, unpause, system, volumes, build, rename, save, tag, network, logs, port, search, history
+
+o Provisioning
+
+4. Docker Hub.
+o Downloading Docker images.
+o Uploading the images in Docker Registry and AWS ECS
+o Understanding the containers
+o Running commands in container.
+o Running multiple containers.
+
+5. Dockerfile
+Creating Dockerfile
+Building images from Dockerfile
+Docker 
+o Creating a custom image.
+o Running a container from the custom image.
+o Publishing the custom image.
+
+6. Docker Networking
+o Accessing containers
+o Linking containers
+o Exposing container ports
+o Container Routing
+
+7. Docker Compose
+o Installing The Docker compose
+o Terminology in Docker compose
+o Build word press site using Docker compose
+
+Creating DevOps CI/CD Pipeline using Docker images
+WebServer - Apache Httpd
+Application Server - Apache Tomcat
+Database Server - MySQL or Mariadb
+Continuous Integration Server - Jenkins
+Continuous Source Code Management Server - Github
+Continuous Binary Artifactory Server - Jfrog 
+Continuous Code Quality - SonarQube
+Continuous Security Testing Server - Fortify
+Continuous Funcational Test Servers - Selinium
+Continuous Log, Monitoring & Analysis Servers - ELK
+Continuous Monitoring - Nagios
 
