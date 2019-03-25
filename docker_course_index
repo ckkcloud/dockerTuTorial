@@ -1,23 +1,12 @@
 
-Learn Docker By Doing 
-
-Module-I   : Introduction to Docker
-
-
-Module-II  :
-
-Module-III :
-
-Module-IV  :
-
-Module-V   :
+Course Name : Learn Docker From Scratch
 
 Introduction : 
 
 About the Trainer
 About the Course
 
-Module-1 : 
+Module-1 : Introduction to Operating Systems and various 
 
 History of Various Operating Systems
 Unix and Linux File System
@@ -37,57 +26,50 @@ Job and Process Management
 Networking 
 Troubleshooting
 
-Module-2 : 
-
-Docker– Containers.
-
-1. Introduction
+Module-2 : Introduction to Containerizaton(Docker) 
 o What is a Docker
 o Use case of Docker
 o Platforms for Docker
 o Dockers vs. Virtualization
 o Docker CE Vs Docker EE and supported platforms
 
-
-2. Architecture
+Module-3 : Architecture
 o Docker Architecture.
 o Understanding the Docker components
 
-3. Installation
+Module-4 : Installation
 o Installing Docker on Linux.
 o Understanding Installation of Docker on windows.
 o Docker commands
 Images, ps, pull, push, run, create, commit, attach, exec, cp, rm, rmi, login, export, import, pause, unpause, system, volumes, build, rename, save, tag, network, logs, port, search, history
-
 o Provisioning
 
-4. Docker Hub.
+Module-5 : Docker Hub.
 o Downloading Docker images.
 o Uploading the images in Docker Registry and AWS ECS
 o Understanding the containers
 o Running commands in container.
 o Running multiple containers.
 
-5. Dockerfile
-Creating Dockerfile
-Building images from Dockerfile
-Docker 
-o Creating a custom image.
+Module-6 : Dockerfile
+o Creating Dockerfile
+o Building images from Dockerfile
+o Docker Directives
 o Running a container from the custom image.
-o Publishing the custom image.
+o Publishing the custom image to Docker hub
 
-6. Docker Networking
+Module-7 : Docker Networking
 o Accessing containers
 o Linking containers
 o Exposing container ports
 o Container Routing
 
-7. Docker Compose
+Module-8 : Docker Compose
 o Installing The Docker compose
 o Terminology in Docker compose
 o Build word press site using Docker compose
 
-Creating DevOps CI/CD Pipeline using Docker images
+Module-9 : Creating DevOps CI/CD Pipeline using Docker images
 WebServer - Apache Httpd
 Application Server - Apache Tomcat
 Database Server - MySQL or Mariadb
