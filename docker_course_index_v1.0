@@ -1,0 +1,88 @@
+Introduction
+ 
+  About the Trainer
+  About the Course
+
+Module-1 : Introduction to Operating Systems and various
+   History of Various Operating Systems
+   Unix and Linux File System
+   Various Shell Environments
+   3rd Party Tools : WinScp, FileZilla, Putty, Gitbash, Cmder, ATOM, Notepad++
+   Basic & Advanced Commands
+   User and Group Management
+   Permissions
+   Download, Install and Configure Linux Distribution on Virtualisation
+   BootProcess & RunLevels
+   Package Management
+   Controlling Services and Daemons
+   Monitoring & Log Analysis
+   Job and Process Management
+   Networking
+   Troubleshooting
+
+Module-2 : Introduction to Containerisation(Docker)
+   What is a Docker
+   Use case of Docker
+   Platforms for Docker
+   Docker CE Vs Docker EE
+   Dockers vs. Virtualisation
+
+Module- 3 : Architecture & Installation
+   Docker Architecture
+   Understanding the Docker components
+   Installing Docker on Windows
+   Installing Docker on Linux
+   Installing Docker on MacOS
+   Working with Docker Commands
+   Provisioning
+
+Module- 4 : Docker Hub Docker Registry and AWS ECS
+   Downloading Docker images
+   Uploading the images in Docker Registry and AWS ECS
+   Understanding the containers
+   Running commands in container
+   Running multiple containers from an Image
+   Creating Images from a Container
+
+Module- 5 : Dockerfile
+   Creating Dockerfile
+   Building images from Dockerfile
+   Creating a custom image
+   Running a container from the custom image
+   Publishing the custom image
+
+Module- 6 : Docker Networking
+   Introduction to Networking
+   Accessing containers
+   Linking containers
+   Exposing container ports
+   Container Routing
+
+Module- 7 : Docker Compose
+   Understand the Concept of Docker Compose
+   Terminology in Docker compose
+   Build Wordpress site using Docker compose
+
+Module- 8 : Creating DevOps CI/CD Pipeline using Docker images
+   Introduction to Agile
+   Introduction to DevOps
+   Docker standards and compliance
+   WebServer - Apache HTTP
+   Application Server - Apache Tomcat
+   Database Server - MySQL or Mariadb
+   Continuous Integration Server - Jenkins
+   Continuous Source Code Management Server - GitLab
+   Continuous Binary Artifactory Server - Jfrog
+   Continuous Code Quality - SonarQube
+   Continuous Security Testing Server - Fortify
+   Continuous Funcational Test Servers - Selinium
+   Continuous Log, Monitoring & Analysis Servers - ELK
+   Continuous Monitoring - Nagios
+
+Module- 9 : Docker Exam & Conclusion
+   About Docker Certification Exam
+   Preparation Tips
+   Sample Questions
+   Exam Registration
+   New Lecture
+   Thank you!
